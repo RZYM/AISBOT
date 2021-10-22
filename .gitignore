@@ -1,0 +1,10 @@
+*.dll
+*.xml
+*.suo
+*.sln
+*.exe
+*.config
+*.pdb
+*.cache
+*.nupkg
+packages/
